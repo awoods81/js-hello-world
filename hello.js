@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('"We are what we pretend to be, so we must be careful about what we pretend to be."')
 
 /*  
 Next, PLAY! 
